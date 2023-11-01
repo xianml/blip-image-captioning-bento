@@ -2,6 +2,8 @@
 
 This project is a blip image captioning service built with [BentoML](https://github.com/bentoml/BentoML).
 
+Let's make a quick deployment of this project in `BentoCloud`. Click [Here](https://money.cloud.bentoml.com/projects/whisperx)
+
 It comes with [Salesforce/blip-image-captioning-large](https://huggingface.co/Salesforce/blip-image-captioning-large),
 you can easily customize it to try other [image-to-text](https://huggingface.co/models?pipeline_tag=image-to-text) models.
 
