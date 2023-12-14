@@ -1,4 +1,4 @@
 torch
 transformers
-bentoml
+bentoml[io-image]
 pydantic>2.0
